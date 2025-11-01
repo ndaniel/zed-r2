@@ -1,4 +1,4 @@
-# zed-r
+# zed-r2
 
 Provides [tree-sitter](https://tree-sitter.github.io/tree-sitter/) queries and [Language Server Protocol (LSP)](https://github.com/REditorSupport/languageserver?tab=readme-ov-file) support for Zed.
 
